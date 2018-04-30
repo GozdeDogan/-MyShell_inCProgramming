@@ -1,0 +1,20 @@
+ls
+pwd
+cd ..
+ls
+exit
+cat inputFile.txt
+wc inputFile.txt
+wc wc.c
+cd dir
+cd .
+cd ..
+exit
+pwd
+pwd
+ls
+ls
+help
+cat inputFile.txt
+ls
+wc list.c
